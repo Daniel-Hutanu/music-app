@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/music-app/static/css/main.9234c04b.css",
+    "main.js": "/music-app/static/js/main.29a2142e.js",
+    "static/media/Urbanist-VariableFont_wght.ttf": "/music-app/static/media/Urbanist-VariableFont_wght.96da0221578c1868bd1e.ttf",
+    "static/media/full.svg": "/music-app/static/media/full.28c7b517a4404576ff830f7a08b18432.svg",
+    "static/media/mute.svg": "/music-app/static/media/mute.c401516af02da16abab035b01203b90d.svg",
+    "static/media/semi.svg": "/music-app/static/media/semi.43526ab630af5890f0b652658aacfd46.svg",
+    "index.html": "/music-app/index.html",
+    "main.9234c04b.css.map": "/music-app/static/css/main.9234c04b.css.map",
+    "main.29a2142e.js.map": "/music-app/static/js/main.29a2142e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9234c04b.css",
+    "static/js/main.29a2142e.js"
+  ]
+}
